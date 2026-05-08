@@ -9569,7 +9569,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Expansion_Card:USB_C_Plug_Molex_105444"
+		(property "Footprint" "Connector_USB:USB_C_Plug_Molex_105444"
 			(at 146.05 101.6 0)
 			(effects
 				(font
@@ -9652,7 +9652,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005fd7a664")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR0101"
 			(at 142.24 135.89 0)
 			(effects
 				(font
@@ -9701,7 +9701,7 @@
 		(instances
 			(project "fw13-LoRa-module"
 				(path "/8c0b3d8b-46d3-4173-ab1e-a61765f77d61"
-					(reference "#PWR01")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
