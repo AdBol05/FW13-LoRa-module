@@ -6633,7 +6633,7 @@
 		)
 		(uuid "4996c0ec-9dcc-4ce2-abd3-719515968dac")
 	)
-	(label "GPIO18"
+	(label "STATUS"
 		(at 110.49 119.38 180)
 		(effects
 			(font
@@ -6873,7 +6873,7 @@
 		)
 		(uuid "bbb42376-26c3-46ff-9e47-9e7af0024017")
 	)
-	(label "STATUS"
+	(label "GPIO5"
 		(at 110.49 86.36 180)
 		(effects
 			(font
